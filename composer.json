@@ -8,7 +8,8 @@
     "authors": [
         {
             "name": "Jacob Christiansen",
-            "email": "jacob@colourbox.com"
+            "email": "jacob@colourbox.com",
+            "role": "Developer"
         }
     ],
     "require": {},
